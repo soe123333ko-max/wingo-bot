@@ -7,7 +7,7 @@ from datetime import datetime
 TOKEN = '8729983442:AAGOKgerRys_MxWK-aVFLMUVqTcHD3dbpRw'
 
 # ၂။ ⚠️ စာပို့မယ့် Telegram Group ရဲ့ Username ကို အမှန်ပြင်ထည့်ပါ (ဥပမာ - '@my_group')
-CHAT_ID = 'TRX1Min1Bot'
+CHAT_ID = '@TRX1Min1Bot'
 
 bot = telebot.TeleBot(TOKEN)
 print("Auto Bot (အမှား/အမှန်စနစ်ပါဝင်သော) စတင်အလုပ်လုပ်နေပါပြီ...")
